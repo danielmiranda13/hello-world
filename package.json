@@ -1,0 +1,15 @@
+{
+  "name": "03-webpack-inicial",
+  "version": "1.0.0",
+  "description": "Ibicio de un proyecto de webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/danielmiranda13/hello-world"
+  },
+  "author": "Daniel Miranda",
+  "license": "ISC"
+}
